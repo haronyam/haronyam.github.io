@@ -1,0 +1,48 @@
+body{
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+#nav{
+    text-align: center;
+    margin-top: 100px;
+}
+.logo{
+    text-align: center;
+    margin-top: 100px;
+    border: 10px solid rgb(85, 85, 85);
+    color: rgb(85, 85, 85);
+    width: 350px;
+}
+
+.parallax-container{
+    height: 700px;
+  }
+      
+#cactus{
+    margin: auto;
+    display: block;
+    height: 350px;
+}
+
+.information{
+    text-align: center;
+    font-size: 30px;
+}
+
+#description{
+    text-align: center;
+    font-size: 15px;
+}
+
+.intro{
+    text-align: center;
+    font-size: 30px;
+    font-style: bold;
+    color: rgb(182, 132, 182);
+}
+
+.paragraph{
+    text-align: center;
+    font-size: 15px;
+}
+
